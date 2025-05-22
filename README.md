@@ -2,7 +2,7 @@
 
 I am Matheus Braga Alves, **26 years old**, currently undergoing a **career transition**.
 
-My background is in **Sales**, but I am now fully committed to becoming a **Software Developer**.  
+I used to work in sales, but now I am fully committed to becoming a **Software Developer**.  
 I am actively seeking my **first opportunity** in the **tech industry**.
 
 Currently, I am studying at **DevClub**, where I am developing essential programming skills.  
@@ -17,6 +17,27 @@ I have already learned **HTML** and **CSS** and I am currently improving my skil
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
+
+---
+
+## Professional Goals
+
+Currently, I am focusing on studying and improving my skills in **Front-End Development**, but I am open to expanding my knowledge into **Back-End Development** in the future.
+
+---
+
+## Soft Skills
+
+- Quick learner and highly motivated to grow in the tech field.  
+- Good communication skills and ability to work well in a team environment.  
+- Strong problem-solving mindset and attention to detail.
+
+---
+
+## Languages
+
+- Portuguese: Native  
+- English: Strong proficiency in reading and understanding technical materials; developing speaking and writing skills.
 
 ---
 
